@@ -1,24 +1,10 @@
-# README
+nusXchange
+Overseas Exchange Web Forum 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Backend: Rails
 
-Things you may want to cover:
+Database: Postgresql
 
-* Ruby version
+Models: Users, Posts, Comments, Favourites
+Usages: Create, Read, Update, Delete
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
