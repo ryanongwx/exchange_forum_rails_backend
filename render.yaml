@@ -1,7 +1,6 @@
 databases:
   - name: postgres
     ipAllowList: []
-    `databaseName`: Exchange_Forum_Db
     user: ryanongwx
 
 services:
